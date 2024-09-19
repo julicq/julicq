@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/julicq" target="blank"><img src="https://img.shields.io/twitter/follow/julicq?logo=twitter&style=for-the-badge" alt="julicq" /></a> </p>
 
-- 🔭 I’m currently working on [Biesse projects](biesse.it)
+- 🔭 I’m currently working on [Raft projects](raftds.com)
 
-- 💬 Ask me about **Python, DS/ML**
+- 💬 Ask me about **Python, DS/ML, AI**
 
-- 📫 How to reach me **me@julicq.ru**
+- 📫 How to reach me **julian.pavlov@raftds.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
