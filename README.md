@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, DS/ML, AI**
 
-- 📫 How to reach me **julian.pavlov@raftds.com**
+- 📫 How to reach me **iulianpavlov@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
