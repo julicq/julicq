@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/julicq" target="blank"><img src="https://img.shields.io/twitter/follow/julicq?logo=twitter&style=for-the-badge" alt="julicq" /></a> </p>
 
-- 🔭 I’m currently working on [Raft projects](raftds.com)
+- 🔭 I’m currently working on AI projects - ML, LLMs, RAG
 
 - 💬 Ask me about **Python, DS/ML, AI**
 
