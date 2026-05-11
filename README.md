@@ -142,8 +142,8 @@ julicq@github:~$ git log --stats --since="forever"
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=julicq&show_icons=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julicq&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=000000" alt="top langs" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=julicq&show_icons=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=00ff00&bg_color=000000" alt="stats" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julicq&layout=compact&hide_border=true&title_color=00ff00&text_color=00ff00&bg_color=000000" alt="top langs" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=julicq&theme=highcontrast&hide_border=true&background=000000&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&currStreakNum=00ff00&sideNums=00ff00" alt="streak" />
 
