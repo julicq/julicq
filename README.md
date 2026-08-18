@@ -35,8 +35,8 @@ julicq@github:~$ cat /etc/motd
 ```text
    ┌──────────────────────────────────────────────────────────────┐
    │  Julian Pavlov · Builder of AI products & full-stack systems │
-   │  Location:  Belgrade, RS / GMT+2                             │
-   │  Shell:     zsh + Claude Code                                │
+   │  Location:  Novi Sad, RS / GMT+2                             │
+   │  Shell:     zsh + Warp                                       │
    │  Editor:    Cursor · Xcode · vim (when nostalgic)            │
    └──────────────────────────────────────────────────────────────┘
 ```
