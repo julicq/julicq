@@ -54,6 +54,41 @@ mission: "Build agents that do real work — not demos."
 ```
 
 ```bash
+julicq@github:~$ curl -s https://pijeon.dev | less
+```
+
+```text
+   ┌──────────────────────────────────────────────────────────────┐
+   │  πJeon Dev · Software, with intent.                          │
+   │  The engineering house I founded · Novi Sad & Remote         │
+   └──────────────────────────────────────────────────────────────┘
+
+   Machine learning, software engineering and design as one craft
+   with three instruments. Less wins when it does the same job.
+
+   INTELLIGENCE   autonomous agents, RAG + retrieval evals,
+                  fine-tuning on private data, forecasting
+   ENGINEERING    typed, tested, instrumented backends · APIs,
+                  infra, observability, data pipelines
+   DESIGN         identity, interfaces, information architecture
+
+   PRODUCTS
+   Relay          control plane for an agent you already run:
+                  keys, a pause switch, citations from your files
+                  and a log that lasts. HTTP / MCP, no chat.
+   Autopilot      task in, checked Change out. The model writes
+                  the code; tests, an independent review and a
+                  security audit decide. Runs inside your network.
+   Odgovor        one line of HTML puts an assistant on a small
+                  business site. Answers from the site, hands off
+                  to a person when the site does not say.
+   Custos™        independent mark for AI used in schools: a named
+                  product, at a named version, public methodology.
+```
+
+[![pijeon.dev](https://img.shields.io/badge/-pijeon.dev_%E2%86%92-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000)](https://pijeon.dev)
+
+```bash
 julicq@github:~$ ls -la ./current-projects/
 ```
 
@@ -128,6 +163,7 @@ julicq@github:~$ contact --list
 
 <div align="left">
 
+[![website](https://img.shields.io/badge/-pijeon.dev-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000)](https://pijeon.dev)
 [![email](https://img.shields.io/badge/-iulianpavlov@icloud.com-00ff00?style=for-the-badge&logo=maildotru&logoColor=black&labelColor=000000)](mailto:iulianpavlov@icloud.com)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/julicq)
 [![twitter](https://img.shields.io/badge/-Twitter/X-00ff00?style=for-the-badge&logo=x&logoColor=black&labelColor=000000)](https://twitter.com/julicq)
