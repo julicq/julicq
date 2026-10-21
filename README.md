@@ -86,7 +86,7 @@ julicq@github:~$ curl -s https://pijeon.dev | less
                   product, at a named version, public methodology.
 ```
 
-[![pijeon.dev](https://img.shields.io/badge/-pijeon.dev_%E2%86%92-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000)](https://pijeon.dev)
+[![pijeon.dev](https://img.shields.io/badge/-pijeon.dev_%E2%86%92-00ff00?style=for-the-badge&logo=googlechrome&logoColor=00ff00&labelColor=000000)](https://pijeon.dev)
 
 ```bash
 julicq@github:~$ ls -la ./current-projects/
@@ -163,12 +163,12 @@ julicq@github:~$ contact --list
 
 <div align="left">
 
-[![website](https://img.shields.io/badge/-pijeon.dev-00ff00?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000)](https://pijeon.dev)
-[![email](https://img.shields.io/badge/-iulianpavlov@icloud.com-00ff00?style=for-the-badge&logo=maildotru&logoColor=black&labelColor=000000)](mailto:iulianpavlov@icloud.com)
-[![linkedin](https://img.shields.io/badge/-LinkedIn-00ff00?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://linkedin.com/in/julicq)
-[![twitter](https://img.shields.io/badge/-Twitter/X-00ff00?style=for-the-badge&logo=x&logoColor=black&labelColor=000000)](https://twitter.com/julicq)
-[![stackoverflow](https://img.shields.io/badge/-StackOverflow-00ff00?style=for-the-badge&logo=stackoverflow&logoColor=black&labelColor=000000)](https://stackoverflow.com/users/18909124)
-[![kaggle](https://img.shields.io/badge/-Kaggle-00ff00?style=for-the-badge&logo=kaggle&logoColor=black&labelColor=000000)](https://kaggle.com/julianpavlov)
+[![website](https://img.shields.io/badge/-pijeon.dev-00ff00?style=for-the-badge&logo=googlechrome&logoColor=00ff00&labelColor=000000)](https://pijeon.dev)
+[![email](https://img.shields.io/badge/-iulianpavlov@icloud.com-00ff00?style=for-the-badge&logo=maildotru&logoColor=00ff00&labelColor=000000)](mailto:iulianpavlov@icloud.com)
+[![linkedin](https://img.shields.io/badge/-LinkedIn-00ff00?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwZmYwMCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg%3D%3D&labelColor=000000)](https://linkedin.com/in/julicq)
+[![twitter](https://img.shields.io/badge/-Twitter/X-00ff00?style=for-the-badge&logo=x&logoColor=00ff00&labelColor=000000)](https://twitter.com/julicq)
+[![stackoverflow](https://img.shields.io/badge/-StackOverflow-00ff00?style=for-the-badge&logo=stackoverflow&logoColor=00ff00&labelColor=000000)](https://stackoverflow.com/users/18909124)
+[![kaggle](https://img.shields.io/badge/-Kaggle-00ff00?style=for-the-badge&logo=kaggle&logoColor=00ff00&labelColor=000000)](https://kaggle.com/julianpavlov)
 
 </div>
 
